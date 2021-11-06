@@ -2,7 +2,7 @@
     const getArgument = function <T>(arg: T): T { 
         return arg;
     };
-
+    
     const core = function <T>(arg: T): void {
         console.log(1);
     };
