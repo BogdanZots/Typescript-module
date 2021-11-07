@@ -11,3 +11,4 @@ const value : exckudeFact<keyof IFact> = "user"
 
 
 const oldV = 5115;
+const newApi = 'new api'
