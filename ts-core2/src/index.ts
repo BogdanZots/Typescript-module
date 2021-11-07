@@ -8,3 +8,6 @@ interface IFact {
     value : string;
 }
 const value : exckudeFact<keyof IFact> = "user" 
+
+
+const oldV = 51;
